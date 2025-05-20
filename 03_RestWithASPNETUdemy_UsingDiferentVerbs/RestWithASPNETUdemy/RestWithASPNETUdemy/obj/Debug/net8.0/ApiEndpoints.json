@@ -1,121 +1,74 @@
 [
   {
-    "ContainingType": "RestWithASPNETUdemy.Controllers.CalculatorController",
-    "Method": "division",
-    "RelativePath": "Calculator/division/{firstNumber}/{secondNumber}",
+    "ContainingType": "RestWithASPNETUdemy.Controllers.PersonController",
+    "Method": "Get",
+    "RelativePath": "api/Person",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestWithASPNETUdemy.Controllers.PersonController",
+    "Method": "Post",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
+        "Name": "person",
+        "Type": "RestWithASPNETUdemy.Model.Person",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestWithASPNETUdemy.Controllers.CalculatorController",
-    "Method": "mean",
-    "RelativePath": "Calculator/mean/{firstNumber}/{secondNumber}",
-    "HttpMethod": "GET",
+    "ContainingType": "RestWithASPNETUdemy.Controllers.PersonController",
+    "Method": "Put",
+    "RelativePath": "api/Person",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
+        "Name": "person",
+        "Type": "RestWithASPNETUdemy.Model.Person",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestWithASPNETUdemy.Controllers.CalculatorController",
-    "Method": "multiplication",
-    "RelativePath": "Calculator/multiplication/{firstNumber}/{secondNumber}",
+    "ContainingType": "RestWithASPNETUdemy.Controllers.PersonController",
+    "Method": "Get",
+    "RelativePath": "api/Person/id",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
-        "IsRequired": true
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "RestWithASPNETUdemy.Controllers.CalculatorController",
-    "Method": "SquareRoot",
-    "RelativePath": "Calculator/square-root/{firstNumber}",
-    "HttpMethod": "GET",
+    "ContainingType": "RestWithASPNETUdemy.Controllers.PersonController",
+    "Method": "Delete",
+    "RelativePath": "api/Person/id",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RestWithASPNETUdemy.Controllers.CalculatorController",
-    "Method": "subtraction",
-    "RelativePath": "Calculator/subtraction/{firstNumber}/{secondNumber}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RestWithASPNETUdemy.Controllers.CalculatorController",
-    "Method": "sum",
-    "RelativePath": "Calculator/sum/{firstNumber}/{secondNumber}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "firstNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      },
-      {
-        "Name": "secondNumber",
-        "Type": "System.String",
-        "IsRequired": true
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

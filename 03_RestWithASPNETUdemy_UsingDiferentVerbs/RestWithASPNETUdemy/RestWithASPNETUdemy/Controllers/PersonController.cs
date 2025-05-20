@@ -1,37 +1,53 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.AspNetCore.Mvc;
+using RestWithASPNETUdemy.Model;
+using RestWithASPNETUdemy.Services.Implementations;
 
 namespace RestWithASPNETUdemy.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class PersonController : ControllerBase
     {
         private readonly ILogger<PersonController> _logger;
+        private IPersonService _personService;
 
-        public PersonController(ILogger<PersonController> logger)
+        public PersonController(ILogger<PersonController> logger, IPersonService personService)
         {
             _logger = logger;
+            _personService = personService;
         }
 
-        [HttpGet("sum/{firstNumber}/{secondNumber}")]
-        public IActionResult sum(string firstNumber, string secondNumber)
+        [HttpGet]
+        public IActionResult Get()
         {
-            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
-            {
-                var sum = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
-                return Ok(sum.ToString());
-            }
-            return BadRequest("Invalid Input");
+            return Ok(_personService.FindAll());
         }
-        private decimal ConvertToDecimal(string strNumber)
+
+        [HttpGet("id")]
+        public IActionResult Get(long id)
         {
-            decimal decimalValue;
-            if (decimal.TryParse(strNumber, System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out decimalValue))
-            {
-                return decimalValue;
-            }
-            return 0;
+            var person = _personService.FindByID(id);
+            if (person == null) return NotFound();
+            return Ok(person);
+        }
+
+        [HttpPost]
+        public IActionResult Post([FromBody] Person person)
+        {
+            if (person == null) return BadRequest();
+            return Ok(_personService.Create(person));
+        }
+        [HttpPut]
+        public IActionResult Put([FromBody] Person person)
+        {
+            if (person == null) return BadRequest();
+            return Ok(_personService.Update(person));
+        }
+        [HttpDelete("id")]
+        public IActionResult Delete(long id)
+        {
+            _personService.Delete(id);
+            return NoContent();
         }
     }
 }

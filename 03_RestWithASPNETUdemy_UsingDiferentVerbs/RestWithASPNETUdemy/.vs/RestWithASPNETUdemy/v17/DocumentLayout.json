@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\",
+  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_person\\restwithaspnetudemy\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_person\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_person\\restwithaspnetudemy\\restwithaspnetudemy\\restwithaspnetudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\restwithaspnetudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_usingdiferentverbs\\restwithaspnetudemy\\restwithaspnetudemy\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
-              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:27:16.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RestWithASPNETUdemy",
-              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
-              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
-              "RelativeToolTip": "RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T11:20:30.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Person\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T13:32:30.112Z",
+              "WhenOpened": "2025-05-20T12:10:15.842Z",
               "EditorCaption": ""
             }
           ]
