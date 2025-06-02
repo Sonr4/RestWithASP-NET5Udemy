@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\06_restwithaspnetudemy_splittinglogic\\restwithaspnetudemy\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\06_restwithaspnetudemy_splittinglogic\\restwithaspnetudemy\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\06_restwithaspnetudemy_splittinglogic\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\06_restwithaspnetudemy_splittinglogic\\restwithaspnetudemy\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\implementations\\personrepositoryimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\06_restwithaspnetudemy_splittinglogic\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:05:47.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepositoryImplementation.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\Implementations\\PersonRepositoryImplementation.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T12:45:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:21:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:06:06.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\06_RestWithASPNETUdemy_SplittingLogic\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:57:10.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
