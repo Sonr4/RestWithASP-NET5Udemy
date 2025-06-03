@@ -30,7 +30,7 @@ namespace RestWithASPNETUdemy.Controllers
         {
             var person = _personService.FindByID(id);
             if (person == null) return NotFound();
-            return Ok();
+            return Ok(person);
 
         }
         [HttpPost]

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\",
+  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Workingwithfourverbs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_usingdiferentverbs\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_workingwithfourverbs\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\03_restwithaspnetudemy_workingwithfourverbs\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Workingwithfourverbs\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Workingwithfourverbs\\RestWithASPNETUdemy\\Model\\Person.cs*",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:55:57.545Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Workingwithfourverbs\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\03_RestWithASPNETUdemy_Workingwithfourverbs\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
               "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T21:00:17.056Z",
               "EditorCaption": ""

@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using RestWithASPNETUdemy.Business;
-using RestWithASPNETUdemy.Business.Implementations;
-using RestWithASPNETUdemy.Model.Context;
-using RestWithASPNETUdemy.Repository;
-using RestWithASPNETUdemy.Repository.Implementations;
+using RestWithASPNETErudio.Business;
+using RestWithASPNETErudio.Business.Implementations;
+using RestWithASPNETErudio.Model.Context;
+using RestWithASPNETErudio.Repository;
+using RestWithASPNETErudio.Repository.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,7 +17,7 @@ builder.Services.AddDbContext<MySQLContext>(options => options.UseMySql(
     new MySqlServerVersion(new Version(8, 0, 41)))
 );
 
-// Versioning API
+//Versioning API
 builder.Services.AddApiVersioning();
 
 //Dependency Injection
