@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\hypermedia\\contentresponseenricher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\business\\iloginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\iloginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\15_restwithaspnetudemy_authentication\\restwithaspnetudemy\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentResponseEnricher.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Hypermedia\\ContentResponseEnricher.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Hypermedia\\ContentResponseEnricher.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Hypermedia\\ContentResponseEnricher.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Hypermedia\\ContentResponseEnricher.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:37:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:48:13.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvx4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:19:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoginBusiness.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\ILoginBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:47:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\15_RestWithASPNETUdemy_Authentication\\RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:45:52.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
