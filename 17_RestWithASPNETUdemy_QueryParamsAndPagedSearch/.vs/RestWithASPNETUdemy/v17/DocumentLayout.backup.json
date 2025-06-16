@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\17_restwithaspnetudemy_queryparamsandpagedsearch\\restwithaspnetudemy\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\generic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\17_restwithaspnetudemy_queryparamsandpagedsearch\\restwithaspnetudemy\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\repository\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\17_restwithaspnetudemy_queryparamsandpagedsearch\\restwithaspnetudemy\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\ipersonbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\17_restwithaspnetudemy_queryparamsandpagedsearch\\restwithaspnetudemy\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\business\\implementations\\personbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|c:\\restwithasp-net5udemy\\restwithasp-net5udemy\\17_restwithaspnetudemy_queryparamsandpagedsearch\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16071DE-B543-49AF-B474-B6A72B2E0CD5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\Generic\\GenericRepository.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Repository\\Generic\\GenericRepository.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\Generic\\GenericRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwGQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:34:12.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Repository\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Repository\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Repository\\Generic\\IRepository.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Repository\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:30:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:12:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\Implementations\\PersonBusinessImplementation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:16:06.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonBusiness.cs",
+              "DocumentMoniker": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "ToolTip": "C:\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\17_RestWithASPNETUdemy_QueryParamsAndPagedSearch\\RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Business\\IPersonBusiness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:15:33.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
